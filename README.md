@@ -1,6 +1,8 @@
 Hi, I'm Zaki!
 
-Currently, I'm studying maths, further maths, physics, and computer science for my A-Levels and I hope to take computer science forwards at university.
+I'm currently in my final year of secondary school, studying maths, further maths, physics, and computer science.
+
+Next year, I plan to study maths and computer science at university.
 
 [<img src="images/website.svg" height="32px">](https://zaki.me)
 [<img src="images/linkedin.png" height="32px">](https://www.linkedin.com/in/-zaki)
